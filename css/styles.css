@@ -1,0 +1,213 @@
+/* :root {
+    --primary-text-color: #757575;
+    --title-text-color: #212121;
+    --accent: #2196F3;
+} */
+
+
+
+body { 
+    background-color: #E5E5E5;
+    color: #000;
+    font-family: Roboto, serif;
+    letter-spacing: 0.03em;
+}
+.logo {
+    color: black;
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+.accent {
+    color: #2196F3;
+}
+
+ .link:hover,
+ .link:focus {
+     color: #2196F3;
+}
+
+.link {
+     color: #757575;
+    text-decoration: none;
+    
+}
+ ul {
+    list-style: none;
+ }
+
+h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    /* or 136% */
+    
+    text-align: center;
+    letter-spacing: 0.06em;
+   }
+h2 {
+    font-family: Roboto;
+    font-style: 400;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.43;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+      
+
+ h3 {
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #212121;
+ }
+
+h4 {
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+
+
+ p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    /* or 171% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;
+    
+}
+.section-feature{
+
+}
+.section-we-work{
+
+}
+
+.section-they-comand{
+
+}
+.section-clients{
+
+}
+.section-footer .link {
+
+}
+.section-footer-adress{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    /* or 171% */
+    
+    letter-spacing: 0.03em;
+    
+}
+
+.footer-adress-span {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+}
+
+
+    
+} 
+ 
+.hero .button {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.87;
+    /* identical to box height, or 187% */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    
+    color: #FFFFFF;
+}
+    /* color: white;
+    background-color: #2196F3;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.87px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em; */
+}
+ 
+.button:hover
+ {
+    background-color: #2196F3;
+    color: white;
+ }
+
+.button {
+    text-decoration: none; 
+}
+
+.foot-adress-span {
+    color: #757575;
+}
+
+.foot-adress-span:hover,
+.foot-adress-span:focus {
+    color: #2196F3;
+    text-decoration: none;
+}
+
+
+/* .button.primary {
+    background-color: blue;
+    color: white;
+}
+.button.secondary {
+    background-color: white;
+    color: blue;
+}
+
+/*  */
+/* .link{
+    list-style: none;
+ }
+   */
+  
+  /* Оформление таблицы */
+
+ 
+/* pre::selection {
+  color: #ffffff;
+  background-color: #3f51b5;
+} */
