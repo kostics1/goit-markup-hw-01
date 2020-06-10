@@ -7,9 +7,9 @@
 
 
 body { 
+    Font Family: Roboto; serif;
     background-color: #E5E5E5;
     color: #000;
-    font-family: Roboto, serif;
     letter-spacing: 0.03em;
 }
 .logo {
@@ -25,9 +25,9 @@ body {
     color: #2196F3;
 }
 
- .link:hover,
- .link:focus {
-     color: #2196F3;
+.link:hover,
+.link:focus {
+color: #2196F3;
 }
 
 .link {
@@ -137,9 +137,6 @@ line-height: 1.71;
 letter-spacing: 0.03em;
 }
 
-
-    
-} 
  
 .hero .button {
     font-family: Roboto;

@@ -1,0 +1,105 @@
+body {
+    Font Family: Roboto; serif;
+    background-color: #E5E5E5;
+    color: #000;
+    font-family: Roboto, serif;
+    letter-spacing: 0.03em;
+}
+.header {
+    background: #FFFFFF; 
+ }
+.logo {
+    color: black;
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+    .accent {
+        color: #2196F3;
+        
+}
+
+ul {
+    list-style: none;
+ }
+
+h2 {
+    Font Family: Roboto;
+    Font Style: 700;
+    Font Size: 18px;
+    Line Height: 2;
+    Line Height: 171%;
+    color: #212121;
+ }
+
+ p {
+    Font Family: Roboto;
+    Font Style: 500;
+    Font Size: 16px;
+    Line Height: 1.87;
+    Line Height: 160%;
+    color: #757575;
+   
+ }
+
+ .text {
+    Font Family: Roboto;
+    Font Style: 500;
+    Font Size: 18px
+    Line Height: 1.55;
+    Line Height: 133%;
+    color:  #FFFFFF;
+ }
+
+ a {
+     text-decoration: none;
+ }
+
+ .link:hover,
+ .link:focus {
+     color: #2196F3;
+}
+
+.link {
+     color: #757575;
+    text-decoration: none;
+    
+}
+
+.button {
+    
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.87;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}
+
+.main-link:hover,
+.main-link:focus
+ {
+    background-color: #2196F3;
+    color: tomato
+ }
+
+ .section-foot {
+     background-color: #2F303A;;
+ }
+
+ .footer-link {
+    color: white;
+ }
+ .section-foot .link {
+color: rgba(255, 255, 255, 0.6);
+ }
+
+ .section-foot .adress {
+    color: white;
+ }
