@@ -107,3 +107,9 @@ color: rgba(255, 255, 255, 0.6);
  .section-foot .adress {
     color: white;
  }
+
+ .main {
+     display: flex;
+     flex-wrap: wrap;
+     background-color: lawngreen;
+ }
